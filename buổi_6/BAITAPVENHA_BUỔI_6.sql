@@ -1,4 +1,4 @@
-﻿--© 2024 By BK Fintech - Rikkei Education - All rights reserved. 17
+﻿-Lí Thuyết
 --Thực hành JOIN bảng
 --ài tập 1: Công ty muốn gửi quà tri ân đến các khách hàng VIP. Trả về MỘT
 --bảng kết quả có các cột sau SalesOrderNumber, ProductKey,
